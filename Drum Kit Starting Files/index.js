@@ -13,7 +13,7 @@ for (var i = 0; i < leng ; i++) {
 
 
 
-  document.querySelectorAll(".drum")[i].addEventListener('click',function(){
+  document.querySelectorAll(".drum")[i].addEventListener('click', ()=>{
 
   // console.log(this.innerHTML);
   var button_key = this.innerHTML;
