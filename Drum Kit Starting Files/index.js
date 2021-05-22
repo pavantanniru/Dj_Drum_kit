@@ -95,3 +95,48 @@ function addAnimation(btn){
     },100 );
 
 }
+
+
+
+// // instead of writing switch we can use if else if also 
+
+// function plySound(btn_k) {
+
+//   if (btn_k=='w') {
+
+//     var audio = new Audio("sounds/tom-1.mp3");
+//     audio.play();
+
+//   }
+//   else if (btn_k=='s') {
+
+//     var audio = new Audio('sounds/tom-4.mp3');
+//     audio.play();
+
+//   }
+
+//   else if (btn_k == "d"){
+//     var audio = new Audio('sounds/tom-3.mp3');
+//     audio.play();
+//   }
+
+//   else if (btn_k == "j"){
+//     var audio = new Audio('sounds/tom-2.mp3');
+//     audio.play();
+//   }
+
+//   else if (btn_k == "k"){
+//     var audio = new Audio('sounds/kick-bass.mp3');
+//     audio.play();
+//   }
+
+//   else if (btn_k == "l"){
+//     var audio = new Audio('sounds/snare.mp3');
+//     audio.play();
+//   }
+
+// }
+
+
+
+
